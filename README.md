@@ -16,4 +16,4 @@
 
 [<img src="https://avatars.githubusercontent.com/u/108137122?v=4" width=115><br><sub>Bruno de Souza Farias</sub>](https://github.com/BrunoSouzaFarias)
 
-![Projeto da Trybe e Fallen](images/print.png)
+![Projeto da Trybe e Fallen](./images/print.png)
